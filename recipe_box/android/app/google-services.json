@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "570588242519",
+    "project_id": "recipebox-9900a",
+    "storage_bucket": "recipebox-9900a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570588242519:android:632ef2ae69cbfd54763912",
+        "android_client_info": {
+          "package_name": "com.mycompany.recipebox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570588242519-mvc2nnauir6fk8ds595rceq158ec4duj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.recipebox",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "570588242519-a9eq47c0pjddf6345cano4rdavpmk1l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfAJX_jfSjy1Nebv4wa6Aqe9O6ZGpR0kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570588242519-a9eq47c0pjddf6345cano4rdavpmk1l7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "570588242519-3v5v18jr41jaq7natvup2l6o7dkqcabq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.recipebox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
